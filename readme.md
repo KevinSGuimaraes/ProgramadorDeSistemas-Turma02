@@ -48,7 +48,7 @@ Cada disciplina possui um diretório próprio onde estarão disponíveis todos o
 
 ## Calendário
 
-Confira o calendário das disciplinas no arquivo anexo [Calendário Programador de Sistemas](https://github.com/KevinSGuimaraes/ProgramadorDeSistemas/blob/main/Calend%C3%A1rio%20Programador%20de%20Sistemas.pdf).
+Confira o calendário das disciplinas no arquivo anexo [Calendário Programador de Sistemas](https://github.com/KevinSGuimaraes/ProgramadorDeSistemas-Turma02/blob/main/Imagens/Programador%20de%20Sistemas%20-%20Sa%CC%83o%20Jorge%20d'Oeste.pdf).
 
 # Critérios e Procedimentos de Faltas
 ![Aulas](Imagens/HorasAula.png)
