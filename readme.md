@@ -13,6 +13,32 @@ Bem-vindo ao repositório do Curso de Programador de Sistemas oferecido pelo SEN
 ```
 Realizar as atividades 
 
+-------------INICIANTE---------------
+#1000 | #1001 | #1002 | #1003 | #1004 
+#1005 | #1006 | #1007 | #1008 | #1009
+#1010 | #1011 | #1012 | #1013 | #1014 
+#1015 | #1016 | #1017 | #1018 | #1019
+#1020 | #1021 | #1035 | #1036 | #1037 
+#1038 | #1040 | #1041 | #1042 | #1043
+#1044 | #1045 | #1046 | #1048 | #1049 
+#1050 | #1051 | #1052 | #1059 | #1060
+
+
+```
+
+## Datas das Provas
+```
+Prova 01: Lógica de Programação - 17/02/2025
+Recuperação Prova 01 - 19/02/2025
+
+Prova 02: Linguagem de Programação - 25/02/2025
+Recuperação Prova 02 - 03/03/2025
+
+Prova 03: Fundamentos de Banco de Dados - 25/03/2025
+Recuperação Prova 03 - 26/03/2025
+
+Trabalho Engenharia de Software - 08/04/2025
+
 ```
 ## Estrutura dos Diretórios
 
