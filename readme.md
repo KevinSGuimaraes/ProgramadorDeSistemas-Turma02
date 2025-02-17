@@ -30,15 +30,11 @@ Realizar as atividades
 ## Datas das Provas
 ```
 Prova 01: Lógica de Programação - 17/02/2025
-Recuperação Prova 01 - 19/02/2025
+Recuperação Prova 01 - 24/02/2025
 
 Prova 02: Linguagem de Programação - 25/02/2025
-Recuperação Prova 02 - 03/03/2025
+Recuperação Prova 02 - 10/03/2025
 
-Prova 03: Fundamentos de Banco de Dados - 25/03/2025
-Recuperação Prova 03 - 26/03/2025
-
-Trabalho Engenharia de Software - 08/04/2025
 
 ```
 ## Estrutura dos Diretórios
