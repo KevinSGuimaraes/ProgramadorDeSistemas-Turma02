@@ -1,0 +1,21 @@
+Questionário: Indústria 4.0 e Tecnologia no Filme Duro de Matar 4.0
+
+    Indústria 4.0 e Automação
+    a) No filme, sistemas automatizados e conectados são explorados para ataques cibernéticos. Como a conectividade na Indústria 4.0 pode ser benéfica, mas também representar riscos de segurança?
+    b) Um dos ataques envolve a interrupção do tráfego urbano. Como os conceitos de cidades inteligentes e automação podem evitar colapsos como os mostrados no filme?
+
+    Inteligência Artificial e Segurança Digital
+    a) No filme, hackers exploram sistemas de automação para causar caos. Como a Inteligência Artificial pode ser usada tanto para proteger quanto para ameaçar infraestruturas industriais?
+    b) Que tipo de soluções baseadas em IA poderiam ter prevenido ou reduzido os impactos dos ataques cibernéticos mostrados no filme?
+
+    Sustentabilidade e Redução de Impactos na Indústria
+    a) Considerando o grande consumo de energia na infraestrutura digital do filme, como o uso de energias renováveis e práticas sustentáveis poderia ter reduzido os impactos dos ataques?
+    b) O filme mostra uma grande dependência da tecnologia. Como a Indústria 4.0 pode garantir maior resiliência e sustentabilidade em cenários de crise?
+
+    Impressão 3D e Manufatura Aditiva
+    a) No contexto do filme, imagine que as forças de segurança precisem de peças e equipamentos emergenciais para combater ameaças. Como a impressão 3D poderia acelerar a resposta a crises?
+    b) Como a manufatura aditiva pode reduzir desperdícios e melhorar a sustentabilidade na produção industrial?
+
+    Reflexão Final
+    a) O filme mostra um cenário de extrema dependência da tecnologia. Você acredita que a Indústria 4.0 e a automação tornam a sociedade mais segura ou mais vulnerável? Justifique sua resposta.
+    b) Se você fosse um consultor de segurança cibernética para empresas da Indústria 4.0, quais medidas recomendaria para evitar ataques como os do filme?
